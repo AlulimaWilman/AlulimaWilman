@@ -13,6 +13,9 @@
 - 📊 **Excel** – Data organization & analysis  
 - 🛢️ **MySQL Workbench** – Database design & queries  
 - 🐍 **Python** – Automation, problem solving & data manipulation  
+- 📈 **Power BI** – Interactive dashboards & data storytelling  
+- 💡 **Business Intelligence** – Strategic KPIs & data-driven decision making  
+- 🤖 **GenAI** – Prompt engineering & AI-powered analytical workflows
 
 ---
 
